@@ -1,5 +1,4 @@
 <script>
-  import { Octokit } from '@octokit/core';
   import BottomSide from "../components/feature/main/cardSides/BottomSide.svelte";
   import FlipCard from "../components/feature/main/FlipCard.svelte";
   import TopSide from "../components/feature/main/cardSides/TopSide.svelte";
